@@ -1,3 +1,8 @@
+polrep 0.32.2
+-------------
+- explicit reference to agrmt::minnz in neffIncomp()
+- only import minnz from agrmt in Namespace
+
 polrep 0.32.1
 -------------
 

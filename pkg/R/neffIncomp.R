@@ -4,7 +4,7 @@ neffIncomp <- function (x) {
   P <- sum(x)                       # number of seats
   R <- x[length(x)]                 # last item = residual category (assumed!)
   A <- x[1:length(x)-1]             # exclude last item ( = exclude residual)
-  PL <- minnz(A)                    # smallest non-zero component reported
+  PL <- agrmt::minnz(A)             # smallest non-zero component reported
   # requires minnz() from agrmt package (non-zero minimum)
   noN <- P^2/(R + sum(A^2))         # f(R) = R, residual not squared ("simple")
   lowN <- P^2/(R^2 + sum(A^2))      # f(R) = R^2 ( = residual included)
