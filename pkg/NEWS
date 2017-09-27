@@ -1,3 +1,9 @@
+polrep 0.32.1
+-------------
+
+- clarified documentation of Farina index
+- added cosfun to implement 1-cos in Koppel & Diskin
+
 polrep 0.31.7
 -------------
 
