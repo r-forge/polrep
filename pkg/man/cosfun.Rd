@@ -7,9 +7,9 @@
   \item{Z}{Population vector}
   \item{R}{Vector for the representatives}
 }
-\details{Calculates the cosine of a vector of voters and a vector for the representatives. These are the cosine proportionality scores presented by Koppel and Diskin (2009). Given are the `1-cos` values.
+\details{Calculates the cosine of a vector of voters and a vector for the representatives. These are the cosine proportionality scores presented by Koppel and Diskin (2009). Given are the `1-cos` values, which are not proper metrics (they do not have the triangle inequality property).
 
-The order of the groups in he population vector and the vector for the representatives needs to be the same. If there are groups A, B, C in the population, both vectors need to cover their proportion in the same order.
+The order of the groups in the population vector and the vector for the representatives needs to be the same. If there are groups A, B, C in the population, both vectors need to cover their proportion in the same order.
 
 \eqn{cosunf = 1-(\sum(Z * R)/(\sum(Z^2) * \sum(R^2))^{\frac{1}{2}})}
 

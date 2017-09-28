@@ -1,3 +1,7 @@
+polrep 0.32.3
+-------------
+- clarification in documentation of Farina and cosfun
+
 polrep 0.32.2
 -------------
 - explicit reference to agrmt::minnz in neffIncomp()
