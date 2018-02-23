@@ -13,9 +13,9 @@ The order of the groups in the population vector and the vector for the represen
 
 \eqn{cosunf = 1-(\sum(Z * R)/(\sum(Z^2) * \sum(R^2))^{\frac{1}{2}})}
 
-Other routines are implemented in the packages `tcR`, `SciencesPo`, and `lsa`.
+Other routines are implemented in the packages `tcR`, `SciencesPo` (no longer on CRAN, see \url{https://github.com/danielmarcelino/SciencesPo} and the `Proportionality` measure therein), and `lsa`.
 }
 \value{A single score given the population and representatives}
 \author{Didier Ruedin}
-\seealso{\code{\link{Farina}}, \code{\link[tcR]{cosine.similarity}}, \code{\link[tcR]{cosine.similarity}}, \code{\link[lsa]{cosine}}, \code{\link[SciencesPo]{Proportionality}}}
+\seealso{\code{\link{Farina}}, \code{\link[tcR]{cosine.similarity}}, \code{\link[tcR]{cosine.similarity}}, \code{\link[lsa]{cosine}}}
 \references{Koppel, M., and A. Diskin. (2009) Measuring disproportionality, volatility and malapportionment: axiomatization and solutions. Social Choice and Welfare 33, no. 2: 281-286.}

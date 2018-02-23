@@ -1,9 +1,17 @@
+polrep 0.32.4
+-------------
+
+- updated cross-references
+- clarification in documentation about the 'Farina' index thanks to Thomas Colignatus, see also: <https://mpra.ub.uni-muenchen.de/84469/>
+
 polrep 0.32.3
 -------------
+
 - clarification in documentation of Farina and cosfun
 
 polrep 0.32.2
 -------------
+
 - explicit reference to agrmt::minnz in neffIncomp()
 - only import minnz from agrmt in Namespace
 
