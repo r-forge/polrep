@@ -11,7 +11,7 @@ Some of the (potential) measures of political representation assume that the lar
 \author{
 Didier Ruedin
 
-Maintainer: Didier Ruedin <didier.ruedin@wolfson.oxon.org>
+Maintainer: Didier Ruedin <didier.ruedin@unine.ch>
 }
 \keyword{ package }
 \seealso{\code{\link{irs}}, \code{\link{irs.cat}}, \code{\link{Rose}}, \code{\link{relrep}}, \code{\link{binrep}}, \code{\link{Farina}}, \code{\link{Gallagher}}, \code{\link{Rae}}, \code{\link{StLague}}}
