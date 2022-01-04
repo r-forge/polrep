@@ -6,6 +6,8 @@
 \description{Implementation of different measures of political representation, covering both descriptive representation (unordered groups) and substantive representation (issue positions).}
 \details{This package provides different measures of political representation, including potential measures not actually commonly used. It provides individual representation scores (\code{\link{irs}}), the Rose index (\code{\link{Rose}}), and relative representaton scores (\code{\link{relrep}}) among many others, including potential measures of political representation not used in the literature.
 
+Most representation scores are calculated on the basis of a vector for the population and one for the representatives.
+
 Some of the (potential) measures of political representation assume that the largest group in society (i.e. the majority group) is in the first position of the vector. Putting the largest group into position one of the vector is no disadvantage for any of the measures.
 }
 \author{
