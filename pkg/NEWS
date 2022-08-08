@@ -1,3 +1,7 @@
+polrep 0.32.10
+---------------------------
+- escaped percentages in description, added DOI of cited papers
+
 polrep 0.32.9
 ---------------------------
 - year 2022
