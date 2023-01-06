@@ -1,8 +1,8 @@
 Package: polrep
 Type: Package
 Title: Calculate Political Representation Scores
-Version: 0.32.10
-Date: 2022-08-08
+Version: 0.32.11
+Date: 2023-01-23
 Author: Didier Ruedin
 Maintainer: Didier Ruedin <didier.ruedin@unine.ch>
 Imports: agrmt
