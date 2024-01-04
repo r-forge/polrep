@@ -17,5 +17,5 @@ Note that the cosine is sufficiently defined by the part of the formula with the
 \value{A single score given the population and representatives}
 \author{Didier Ruedin}
 \seealso{\code{\link{cosfun}}}
-\references{Kestelman, P. 1999. 'Quantifying Representativity'. Voting Matters 10. \url{http://www.votingmatters.org.uk/ISSUE10/P6.HTM}.
+\references{Kestelman, P. 1999. 'Quantifying Representativity'. Voting Matters 10. \url{https://www.votingmatters.org.uk/ISSUE10/P6.HTM}.
 Colignatus, T. 2018. ' Comparing votes and seats with cosine, sine and sign, with attention for the slope and enhanced sensitivity to inequality / disproportionality'. MPRA Paper No. 84469. \url{https://mpra.ub.uni-muenchen.de/84469/}.}
